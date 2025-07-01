@@ -61,11 +61,10 @@ React app will run on `http://localhost:3000`
 
 ### 📸 **Screenshots**
 
-| Chat Screen                                            | Sending Messages                                         |
+| Chat Screen                                                                                   |
 | ------------------------------------------------------ | -------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/f0ad1224-493a-45eb-83ca-74f21111c2cf)
-| ![image](https://github.com/user-attachments/assets/fbbcd33b-aca3-483e-8267-421fb6d0181b)
- |
+![image](https://github.com/user-attachments/assets/09c5b003-ccad-495c-adac-85b16ba09f37)
+
 
 *(Replace with actual screenshots when ready)*
 
