@@ -66,7 +66,7 @@ React app will run on `http://localhost:3000`
 ![image](https://github.com/user-attachments/assets/09c5b003-ccad-495c-adac-85b16ba09f37)
 
 
-*(Replace with actual screenshots when ready)*
+
 
 ---
 
