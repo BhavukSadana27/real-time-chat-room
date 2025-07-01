@@ -1,7 +1,19 @@
 
 
 ## 📦 Real-Time Chat Room
+COMPANY : CODTECH IT SOLUTIONS
 
+NAME : BHAVUK SADANA
+
+INTERN ID : CT06DG454
+
+DOMAIN : FRONTEND WEB DEVELOPMENT
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTHOSH KUMAR
+
+DESCRIPTION :
 A **simple real-time chat application** built using **React.js** for the frontend and **WebSocket** on the backend.
 This project was created as part of an internship task to demonstrate real-time messaging between connected users.
 
